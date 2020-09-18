@@ -4,7 +4,7 @@ This repository include 3D modelization of functional magnetic resonance imaging
 
 ### Articles:
   * Dugré et al. 2020.
-    1. Acute Threat Response: https://juldugre.github.io/AR_Neuro/Brain_vmPFC_Test.html
+    1. Acute Threat Response: 
     2. Social Cognition:
     3. Cognitive Control:
     4. Punishment Processing:
