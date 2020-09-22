@@ -20,7 +20,7 @@ This repository include 3D modelization of functional magnetic resonance imaging
 
    * Acute Threat Response: https://juldugre.github.io/3D_Neuroscience/Threat_Processing.html
    * Social Cognition:
-   * Cognitive Control:
+   * Cognitive Control: https://juldugre.github.io/3D_Neuroscience/Cognitive_Control.html
    * Punishment Processing:
    * Reward Processing : No Significant Result
     
