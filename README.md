@@ -13,8 +13,8 @@ This repository include 3D modelization of functional magnetic resonance imaging
 
 ## Neuroimaging Articles:
 Note: 
-**In Activation Studies**, clusters in red = Hyperactivation & blue = Hypoactivation, compared to healthy subjects
-**In Connectivity Studies**, edges in red = Increased Connectivity & blue = Decreased Connectivity, compared to healthy subjects
+* **In Activation Studies**, clusters in red = Hyperactivation & blue = Hypoactivation, compared to healthy subjects
+* **In Connectivity Studies**, edges in red = Increased Connectivity & blue = Decreased Connectivity, compared to healthy subjects
 
   * Dugré et al. 2020.
     1. Acute Threat Response: https://juldugre.github.io/3D_Neuroscience/Threat_Processing.html
