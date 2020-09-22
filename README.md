@@ -18,8 +18,8 @@ This repository include 3D modelization of functional magnetic resonance imaging
   **Neural Processing underlying Antisocial Behaviors**
   1. *Dugré, J.R., Radua, J., Carignan-Allard, M., Dumais, A., Rubia, K., & Potvin, S. (2020). Neurofunctional Abnormalities in Antisocial Spectrum: A Meta-analysis of fMRI studies on Five distinct Neurocognitive Research Domains. Neuroscience & Biobehavioral Reviews. DOI = 10.1016/j.neubiorev.2020.09.013. Retrieved from: https://www.sciencedirect.com/science/article/pii/S0149763420305704*
   
-  A. Acute Threat Response: https://juldugre.github.io/3D_Neuroscience/Threat_Processing.html
-  B. Social Cognition:
-  C. Cognitive Control:
-  D. Punishment Processing:
+  1. Acute Threat Response: https://juldugre.github.io/3D_Neuroscience/Threat_Processing.html
+  2. Social Cognition:
+  3. Cognitive Control:
+  4. Punishment Processing:
     
