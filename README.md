@@ -15,7 +15,7 @@ This repository include 3D modelization of functional magnetic resonance imaging
 * **In Activation Studies**, Clusters in Red = Hyperactivation; clusters in Blue = Hypoactivation, compared to healthy subjects
 * **In Connectivity Studies**, Edges in Red = Increased Connectivity; Edges in Blue = Decreased Connectivity, compared to healthy subjects
 
-  * **Neural processing in Conduct/Antisocial Personality Disorders
+  **Neural processing in Conduct/Antisocial Personality Disorders**
   1. *Dugré, J.R., Radua, J., Carignan-Allard, M., Dumais, A., Rubia, K., & Potvin, S. (2020). Neurofunctional Abnormalities in Antisocial Spectrum: A Meta-analysis of fMRI studies on Five distinct Neurocognitive Research Domains. Neuroscience & Biobehavioral Reviews. DOI = 10.1016/j.neubiorev.2020.09.013. Retrieved from: https://www.sciencedirect.com/science/article/pii/S0149763420305704*
   
   *Acute Threat Response: https://juldugre.github.io/3D_Neuroscience/Threat_Processing.html
