@@ -9,6 +9,8 @@ This repository include 3D modelization of functional magnetic resonance imaging
 ### Modeled & Rendered with Blender 2.79 and Blend4Web
 *Blender Online Community.(2017). Blender - a 3D modelling and rendering package. Stichting Blender Foundation, Amsterdam. Retrieved from http://www.blender.org*
 
+### Brain Model
+*ICBM 2009a Nonlinear Asymmetric Grey Matter Template. Retrieved from: https://mcgill.ca/bic/icbm152-152-nonlinear-atlases-version-2009*
 
 
 ## Neuroimaging Articles:
