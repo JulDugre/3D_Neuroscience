@@ -16,7 +16,7 @@ This repository include 3D modelization of functional magnetic resonance imaging
 * **In Connectivity Studies**, Edges in Red = Increased Connectivity; Edges in Blue = Decreased Connectivity, compared to healthy subjects
 
 ### **Neural Processing underlying Antisocial Behaviors**
-1. *Dugré, J.R., Radua, J., Carignan-Allard, M., Dumais, A., Rubia, K., & Potvin, S. (2020). Neurofunctional Abnormalities in Antisocial Spectrum: A Meta-analysis of fMRI studies on Five distinct Neurocognitive Research Domains. Neuroscience & Biobehavioral Reviews. DOI = 10.1016/j.neubiorev.2020.09.013. Retrieved from: https://www.sciencedirect.com/science/article/pii/S0149763420305704*
+1. *Dugré, J.R., Radua, J., Carignan-Allard, M., Dumais, A., Rubia, K., & Potvin, S. (2020). Neurofunctional Abnormalities in Antisocial Spectrum: A Meta-analysis of fMRI studies on Five distinct Neurocognitive Research Domains. Neuroscience & Biobehavioral Reviews. DOI: 10.1016/j.neubiorev.2020.09.013. Retrieved from: https://www.sciencedirect.com/science/article/pii/S0149763420305704*
    #### Meta-Analyses on Case-Control Studies
    * Acute Threat Response: https://juldugre.github.io/3D_Neuroscience/Threat_Processing.html
    * Social Cognition: https://juldugre.github.io/3D_Neuroscience/Social_Cognition.html
