@@ -1,4 +1,4 @@
-# 3D Modelization of My Neuroscience Findings 
+# 3D Modelization of Neuroscience Findings 
 
 This repository include 3D modelization of functional magnetic resonance imaging findings from published scientific articles in neuroscience.
 
