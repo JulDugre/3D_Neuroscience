@@ -14,6 +14,7 @@ This repository include 3D modelization of functional magnetic resonance imaging
 
 
 ## Neuroimaging Articles:
+*Note:*
 * **In Activation Studies**, Clusters in Red = Hyperactivation; clusters in Blue = Hypoactivation, compared to healthy subjects
 * **In Connectivity Studies**, Edges in Red = Increased Connectivity; Edges in Blue = Decreased Connectivity, compared to healthy subjects
 
