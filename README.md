@@ -29,5 +29,5 @@ This repository include 3D modelization of functional magnetic resonance imaging
    
    #### Meta-analyses on Dimensional Studies
    * Severity of Antisocial Behaviors: https://juldugre.github.io/3D_Neuroscience/Antisocial_Behaviors.html
-   * Severity of Callous-Unemotional Traits: juldugre.github.io/3D_Neuroscience/CallousUnemotional_Traits.html
+   * Severity of Callous-Unemotional Traits: https://juldugre.github.io/3D_Neuroscience/CallousUnemotional_Traits.html
     
