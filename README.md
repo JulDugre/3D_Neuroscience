@@ -4,10 +4,10 @@ This repository include 3D modelization of functional magnetic resonance imaging
 
 
 ### Segmentation & Surface Mesh were created with ITK-SNAP
-*Yushkevich, P.A., Piven, J., Hazlett, H.C., Smith, R.G., Ho, S., Gee, J.C., & Gerig, G. (2016). User-guided 3D active contour segmentation of anatomical structures: Significantly improved efficiency and reliability. Neuroimage, 31(3):1116-28. Retrieved from http://www.itksnap.org/*
+*Yushkevich, P.A., Piven, J., Hazlett, H.C., Smith, R.G., Ho, S., Gee, J.C., & Gerig, G. (2016). User-guided 3D active contour segmentation of anatomical structures: Significantly improved efficiency and reliability. Neuroimage, 31(3):1116-28. Retrieved from: http://www.itksnap.org/*
 
 ### Modeled & Rendered with Blender 2.79 and Blend4Web
-*Blender Online Community.(2017). Blender - a 3D modelling and rendering package. Stichting Blender Foundation, Amsterdam. Retrieved from http://www.blender.org*
+*Blender Online Community.(2017). Blender - a 3D modelling and rendering package. Stichting Blender Foundation, Amsterdam. Retrieved from: http://www.blender.org*
 
 ### Brain Model
 *ICBM 2009a Nonlinear Asymmetric Grey Matter Template. Retrieved from: https://mcgill.ca/bic/icbm152-152-nonlinear-atlases-version-2009*
