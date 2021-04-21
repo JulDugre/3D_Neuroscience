@@ -35,6 +35,7 @@ This repository include 3D modelization of functional magnetic resonance imaging
 
 2. *Dugré, J.R. & Potvin, S. (2021). Impaired attentional and socio-affective networks in subjects with antisocial behaviors: A meta-analysis of resting-state functional connectivity studies. Accepted in Psychological Medicine. DOI: S0033291721001525.* 
    #### Summary of the Meta-analyses on Connectivity Studies
-   * [Dysconnectivity in CP/ASPD subjects] (https://juldugre.github.io/3D_Neuroscience/Connect.html)
+   * [Dysconnectivity in CP/ASPD subjects](https://juldugre.github.io/3D_Neuroscience/Connect.html)
+    
     
     
